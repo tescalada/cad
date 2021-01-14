@@ -16,4 +16,4 @@ dependencies:
   - pip:
     - webcolors==1.11.1
     - git+https://github.com/bernhard-42/cadquery.git@assembly-hierarchy
-    - git+https://github.com/bernhard-42/jupyter-cadquery.git  # jupyter_cadquery==2.0.0-beta3
+    - git+https://github.com/bernhard-42/jupyter-cadquery.git@v2.0.0-beta3#egg=jupyter-cadquery
